@@ -6,11 +6,11 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 
 ## 📅 Day 1 - Problems Solved
 
-| Problem                                                                        | Difficulty | Solution File                      |
-|--------------------------------------------------------------------------------|------------|------------------------------------|
-| [Two Sum](https://leetcode.com/problems/two-sum)                               |    Easy    | `Day01/two_sum.py`                 |
-| [Valid Anagram](https://leetcode.com/problems/valid-anagram)                   |    Easy    | `Day01/valid_anagram.py`           |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |    Easy    | `Day01/merge_two_sorted_lists.py`  |
+| Problem | Difficulty | Solution File |
+|--------|------------|----------------|
+| [Two Sum](https://leetcode.com/problems/two-sum) | Easy | `Day01/two_sum.py` |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Day01/valid_anagram.py` |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | `Day01/merge_two_sorted_lists.py` |
 
 ---
 
@@ -38,9 +38,15 @@ Clone the repo:
 ```bash
 git clone https://github.com/ranahitesh07/leetcode-daily.git
 
+Navigate by day or problem name to view solutions.
+
 ---
 
-##⭐️ Let's Connect
-GitHub: @ranahitesh07
+## ⭐️ Let's Connect
 
-LeetCode: ranahitesh07
+- GitHub: [@ranahitesh07](https://github.com/ranahitesh07)
+- LeetCode: [ranahitesh07](https://leetcode.com/ranahitesh07)
+
+---
+
+> Consistency is key. Let's ace LeetCode together!
