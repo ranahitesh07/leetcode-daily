@@ -31,9 +31,9 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 
 ---
 
-- GitHub: [@ranahitesh07](https://github.com/ranahitesh07)
-- LeetCode: [ranahitesh07](https://leetcode.com/ranahitesh07)
+## 🚀 How to Use
 
----
+Clone the repo:
 
-> Consistency is key. Let's ace LeetCode together!
+```bash
+git clone https://github.com/ranahitesh07/leetcode-daily.git
