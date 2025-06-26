@@ -38,7 +38,9 @@ Clone the repo:
 ```bash
 git clone https://github.com/ranahitesh07/leetcode-daily.git
 
-⭐️ Let's Connect
+---
+
+##⭐️ Let's Connect
 GitHub: @ranahitesh07
 
 LeetCode: ranahitesh07
