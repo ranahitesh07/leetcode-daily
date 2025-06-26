@@ -31,19 +31,6 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 
 ---
 
-## 🚀 How to Use
-
-Clone the repo:
-
-```bash
-git clone https://github.com/ranahitesh07/leetcode-daily.git
-
-Navigate by day or problem name to view solutions.
-
----
-
-## ⭐️ Let's Connect
-
 - GitHub: [@ranahitesh07](https://github.com/ranahitesh07)
 - LeetCode: [ranahitesh07](https://leetcode.com/ranahitesh07)
 
