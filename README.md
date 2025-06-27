@@ -17,9 +17,9 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 
 | #  | Problem                                                                              | Difficulty | Solution File                                       |
 |----|--------------------------------------------------------------------------------------|------------|--------------------------------------------|
-| 1  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)               | Easy       | `day02/valid_parentheses.py`               |
-| 2  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | `day02/longest_unique_substring.py`        |
-| 3  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)     | Easy       | `day02/next_greater_element.py`            |
+| 1  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)               | Easy       | `Day02/valid_parentheses.py`               |
+| 2  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | `Day02/longest_unique_substring.py`        |
+| 3  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)     | Easy       | `Day02/next_greater_element.py`            |
 
 ---
 ## 📈 Goal
