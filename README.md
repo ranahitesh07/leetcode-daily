@@ -13,7 +13,15 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | `Day01/merge_two_sorted_lists.py` |
 
 ---
+## Day 02 – Stack & Sliding Window
 
+| # | Problem                                      | File                             |
+|---|----------------------------------------------|----------------------------------|
+| 1 | Valid Parentheses                            | `day02/valid_parentheses.py`     |
+| 2 | Longest Substring Without Repeating Characters | `day02/longest_unique_substring.py` |
+| 3 | Next Greater Element I                       | `day02/next_greater_element.py`  |
+
+---
 ## 📈 Goal
 
 ✅ Solve **3 problems daily**  
