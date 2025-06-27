@@ -6,16 +6,16 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 
 ## 💡 Day 01 – Hashing & Linked List Basics
 
-| Problem | Difficulty | Solution File |
-|--------|------------|----------------|
-| [Two Sum](https://leetcode.com/problems/two-sum) | Easy | `Day01/two_sum.py` |
-| [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Day01/valid_anagram.py` |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | `Day01/merge_two_sorted_lists.py` |
+| Sl. |Problem | Difficulty | Solution File |
+|-----|--------|------------|----------------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | `Day01/two_sum.py` |
+| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Day01/valid_anagram.py` |
+| 3 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | Easy | `Day01/merge_two_sorted_lists.py` |
 
 ---
 ## 🧩 Day 02 – Stack & Sliding Window
 
-| #  | Problem                                                                              | Difficulty | Solution File                                       |
+| Sl.  | Problem                                                                              | Difficulty | Solution File                                       |
 |----|--------------------------------------------------------------------------------------|------------|--------------------------------------------|
 | 1  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)               | Easy       | `Day02/valid_parentheses.py`               |
 | 2  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | `Day02/longest_unique_substring.py`        |
