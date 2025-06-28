@@ -22,6 +22,15 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 | 3  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)     | Easy       | `Day02/next_greater_element.py`            |
 
 ---
+## 🔍 Day 03 – Two Pointers, Binary Search & Hashing
+
+| Sl. | Problem | Difficulty | Solution File |
+|---|---------|----------|------------|
+| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Day03/remove_duplicates.py](Day03/remove_duplicates.py) |
+| 2 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Day03/binary_search.py](Day03/binary_search.py) |
+| 3 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Day03/group_anagrams.py](Day03/group_anagrams.py) |
+ 
+---
 ## 📈 Goal
 
 ✅ Solve **3 problems daily**  
