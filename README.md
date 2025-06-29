@@ -31,6 +31,15 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 | 3 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | `Day03/group_anagrams.py` |
  
 ---
+## 💡 Day 04 – Two Pointers, Hashing & Greedy
+
+| Sl. | Problem                                                                                                   | Difficulty | Solution File                     |
+| --- | --------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------- |
+| 1   | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy       | `Day04/remove-duplicates.py`   |
+| 2   | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)                   | Easy       | `Day04/intersection-arrays.py` |
+| 3   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | Medium     | `Day04/best-time-stock.py`     |
+
+---
 ## 📈 Goal
 
 ✅ Solve **3 problems daily**  
