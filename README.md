@@ -40,6 +40,15 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 | 3 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | `Day04/maximum-subarray.py` |
 
 ---
+## 🔥 Day 05 – Sliding Window Problems
+
+| Sl. | Problem | Difficulty | Solution File |
+|-----|---------|------------|----------------|
+| 1 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | `Day05/minimum_size_subarray_sum.py` |
+| 2 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | `Day05/permutation_in_string.py`|
+| 3 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | `Day05/longest_subarray_after_deleting_one.py` |
+
+---
 ## 📈 Goal
 
 ✅ Solve **3 problems daily**  
