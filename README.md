@@ -49,6 +49,15 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 | 3 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | Medium | `Day05/longest_subarray_after_deleting_one.py` |
 
 ---
+## ⭐ Day 06 – Sliding Window & Hashing
+
+| Sl. | Problem | Difficulty | Solution File |
+|-----|---------|------------|----------------|
+| 1 | [Maximum Number of Vowels in a Substring](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | `Day06/01_maximum_number_of_vowels.py` |
+| 2 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | `Day06/02_subarray_sum_equals_k.py` |
+| 3 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | `Day06/03_fruit_into_baskets.py` |
+
+---
 ## 📈 Goal
 
 ✅ Solve **3 problems daily**  
