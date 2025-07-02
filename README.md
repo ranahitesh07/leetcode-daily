@@ -58,6 +58,15 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 | 3 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | `Day06/03_fruit_into_baskets.py` |
 
 ---
+## 🔍 Day 07 – Hashmap, Heap, Prefix Product
+
+| Sl. | Problem | Difficulty | Solution File |
+|-----|---------|------------|----------------|
+| 1 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | `Day07/missing_number.py` |
+| 2 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | `Day07/top_k_frequent_elements.py` |
+| 3 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | `[product_of_array_except_self.py](./`Day07/product_of_array_except_self.py` |
+
+---
 ## 📈 Goal
 
 ✅ Solve **3 problems daily**  
