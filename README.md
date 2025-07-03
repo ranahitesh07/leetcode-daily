@@ -67,6 +67,15 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 | 3 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | `Day07/product_of_array_except_self.py` |
 
 ---
+## 🧠 Day 08 – Two Pointers, Strings & Sort Colours
+
+| Sl. | Problem | Difficulty | Solution File |
+|-----|---------|------------|----------------|
+| 1 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | `Day08/move_zeroes.py` |
+| 2 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | `Day08/reverse_words_in_a_string_iii.py` |
+| 3 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | `Day08/sort_colors.py` |
+
+---
 ## 📈 Goal
 
 ✅ Solve **3 problems daily**  
