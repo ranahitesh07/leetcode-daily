@@ -76,6 +76,15 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 | 3 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | `Day08/sort_colors.py` |
 
 ---
+## 💥 Day 09 – String, Backtracking, Matrix
+
+| Sl. | Problem | Difficulty | Solution File |
+|---|---------|------------|----------------------------|
+| 1 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | Easy | `Day09/count_binary_substrings.py` |
+| 2 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium | `Day09/max_length_unique_concat.py` |
+| 3 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | `Day09/rotate_image.py` |
+
+---
 ## 📈 Goal
 
 ✅ Solve **3 problems daily**  
