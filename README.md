@@ -85,6 +85,15 @@ This repository contains my **daily LeetCode problem-solving journey**, aiming t
 | 3 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Medium | `Day09/rotate_image.py` |
 
 ---
+### 👉 Day 10 – String | Linked List | Logic
+
+| Sl. | Problem | Difficulty | Solution File |
+|-----|---------|------------|------------------------------|
+| 1   | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | `Day10/string_array_equivalent.py` |
+| 2   | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | `Day10/linked_list_binary_to_int.py` |
+| 3   | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | Easy/Medium | `Day10/kth_missing_positive.py` |
+
+---
 ## 📈 Goal
 
 ✅ Solve **3 problems daily**  
